@@ -1,6 +1,6 @@
-#Design from: https://www.uxcrush.com/fintech-figma-landing-page-template/
+# Design from: https://www.uxcrush.com/fintech-figma-landing-page-template/
 
-#Coded by: Xiomiau
+# Coded by: Xiomiau
 
 ### LandingRiseFinance
 
